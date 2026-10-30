@@ -6,7 +6,7 @@ This project analyses 250,000 UPI (Unified Payments Interface) transactions from
 ## Dataset
 - UPI Transactions 2024, from Kaggle
 - 250,000 rows and 28 columns after cleaning
-- The cleaned dataset is shared separately because of its size
+- Cleaned dataset (upi_cleaned.csv): [Download from Google Drive](https://drive.google.com/file/d/16UE4SAVgbqSgXXO-TgxgEgBOUAZldHO9/view?usp=sharing)
 
 ## Tools
 - Python (pandas), Google Colab
